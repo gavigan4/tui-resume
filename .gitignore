@@ -1,0 +1,6 @@
+*.log
+.a0proj/
+.ssh/
+resume.txt
+index.html
+main.py
